@@ -1,3 +1,5 @@
+import os
+os system("clear")
 from telegram.ext import *
 import requests
 import json
